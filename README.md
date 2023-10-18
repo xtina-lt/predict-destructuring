@@ -1,49 +1,10 @@
-# 🔍Predicting Destructuring🔎
+# Predicting Destructuring 🧐
 
 ### **Links**
- - [Notion Page Version](https://different-delivery-037.notion.site/Predict-Destructuring-84277eda84684a74b16bf9a23df89eb9?pvs=4)
+ - [Notion Page Version](https://different-delivery-037.notion.site/Predict-Destructuring-c71ccd1f76254d8b9b9c0a6c078beb2a?pvs=4)
  - [Section Notes](https://different-delivery-037.notion.site/Modern-JavaScript-9302deb4f93d48699228e16d600e360f?pvs=4)
 
-### **Learning Objectives**
 
-
-- Analyze and explain the reasons behind the output of code blocks using modern JS syntax, including the application of destructuring, scope, and the spread operator.
-- Evaluate potential problems in code blocks and propose appropriate solutions related to modern JS concepts such as destructuring, scope, and the spread operator.
-
----
-
-Welcome to another **Core assignment**! Some students like to explore the assignments before they're finished reading through the lessons, and that's okay! It can be good for your brain to have a preview of what your future challenges might be. However, before you begin this assignment, it's important that you've first:
-
-- Completed the preceding lesson modules
-- Taken the knowledge checks to confirm your understanding
-- Viewed lecture material related to the assignment topics
-- Completed and submitted your practice assignments
-
----
-
-# **Predict JavaScript I:**
-
-This assignment will ask you to recall what we have learned about the new syntax, rules, and techniques associated with modern JS topics like destructuring, scope, and the spread operator. You will be asked to predict the output of each code block and answer questions in the checklist below about some of the problems.
-
-Each code block, along with predictions and question answers should be included in your .js file.
-
-# **Expected Layout Example**
-
-Why did the code produce that output? If applicable, how would we get the index value that did not output?
-
-```jsx
- //Problem 1000: Why did the code produce that output? If applicable, how would we get the index value that did not output?
-const exampleVar = "example";
-const exampleArr = ["ex", "am", "ple"];
-console.log(exampleArr);
-
-//1. Prediction of the example output should be in commented-out code here.
-//2. The actual output
-//3. Answering any questions associated with the problem block here.
-
-//Problem 2: ...ect
-copy
-```
 
 # **Problem 1**
 
